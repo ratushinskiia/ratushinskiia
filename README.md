@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I'm Aleksander, a front-end developer.
+- 📫 How to reach me: ratushinskijaa@gmail.com, @Rightnow74.
+___
+
+## Skills
+
+HTML5, CSS3, JavaScript, SASS, Pug, Webpack. 
+
+Language: Russian - native, English - intermediate.
+
 <!--
 **ratushinskiia/ratushinskiia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
