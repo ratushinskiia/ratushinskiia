@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Aleksander, a front-end developer.
-- 📫 How to reach me: ratushinskijaa@gmail.com, @Rightnow74.
+- 📫 How to reach me: ratushinskijaa@gmail.com, @Rightnow74(Telegram).
 ___
 
 ## Skills
